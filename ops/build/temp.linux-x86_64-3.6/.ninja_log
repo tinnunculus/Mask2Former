@@ -1,0 +1,4 @@
+# ninja log v5
+0	6021	1653303910693550763	/data1/home/lee0301jy/workspace/practice/mask2former/ops/build/temp.linux-x86_64-3.6/data1/home/lee0301jy/workspace/practice/mask2former/ops/src/cpu/ms_deform_attn_cpu.o	ee2c09ebf790a4db
+1	17525	1653303922185427513	/data1/home/lee0301jy/workspace/practice/mask2former/ops/build/temp.linux-x86_64-3.6/data1/home/lee0301jy/workspace/practice/mask2former/ops/src/cuda/ms_deform_attn_cuda.o	6bd6b537a7037541
+0	29126	1653303933789303231	/data1/home/lee0301jy/workspace/practice/mask2former/ops/build/temp.linux-x86_64-3.6/data1/home/lee0301jy/workspace/practice/mask2former/ops/src/vision.o	bce4628048e35f86
